@@ -1,14 +1,22 @@
 {
-  "name": "treino-vitoria",
+  "name": "treino-rafael",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "treino.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node treino.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamikazedojapan/treino-rafael.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kamikazedojapan/treino-rafael/issues"
+  },
+  "homepage": "https://github.com/kamikazedojapan/treino-rafael#readme"
 }
